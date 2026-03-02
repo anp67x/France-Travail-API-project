@@ -10,11 +10,3 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore generated data everywhere by default
-*.csv
-*.json
-
-# But KEEP demo outputs for the professor
-!example_data/
-!example_data/*.csv
-!example_data/*.json
