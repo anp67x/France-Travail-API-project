@@ -16,6 +16,7 @@ To access the France Travail API, users must create a `.env` file in the project
 For confidentiality and security reasons, the `.env` file is not included in this repository.
 
 Example structure of the `.env` file:
+
 CLIENT_ID=your_client_id_here  
 CLIENT_SECRET=your_client_secret_here
 
